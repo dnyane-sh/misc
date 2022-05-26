@@ -6,7 +6,7 @@ MongoDB
 
 run 
 
-```mohosh_init```
+```sudo systemctl start mongod ```
 
 # Server 
 Node.js backend
